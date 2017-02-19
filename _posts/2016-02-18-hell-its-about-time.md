@@ -19,7 +19,7 @@ in the quick setup page of your new repository. Then enter the URL of the Lanyon
 3. Now you may get an email from Github about a build error on your page. The cause for this
 should be that the Lanyon theme has relative permalinks enabled, which is no longer
 supported by Github pages. I found that this could be fixed by simply removing the line
-`-relative_permalinks: true` from the `_config.yml` file. This does cause some issues with links on the page, which can be fixed by changing the links from relative to absolute. For example, in index.html, `<a href="&#123;&#123;site.baseurl}}/{{ post.url }}">` should be updated to `<a href="username.github.io/{{ post.url }}">`
+`-relative_permalinks: true` from the `_config.yml` file. This does cause some issues with links on the page, which can be fixed by changing the links from relative to absolute. For example, in index.html, `<a href="{% raw %}{{site.baseurl}}{% endraw %}/{{ post.url }}">` should be updated to `<a href="username.github.io/{{ post.url }}">`
 4. Now you have your page, and it's time to start adding your own content. The theme comes with
 examples of posts and pages, so figuring out how to write your own should not be all that tricky.
 
