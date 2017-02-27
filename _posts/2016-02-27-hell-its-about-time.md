@@ -19,12 +19,11 @@ in the quick setup page of your new repository. Then enter the URL of the Lanyon
 3. Now you may get an email from Github about a build error on your page. The cause for this
 should be that the Lanyon theme has relative permalinks enabled, which is no longer
 supported by Github pages. I found that this could be fixed by simply removing the line
-`-relative_permalinks: true` from the `_config.yml` file. This does cause some issues with links on the page, which can be fixed by changing the links from relative to absolute. For example, in index.html, `<a href="{% raw %}{{site.baseurl}}{% endraw %}/{% raw %}{{ post.url }}{% endraw %}">` should be updated to `<a href="username.github.io/{% raw %}{{ post.url }}{% endraw %}">`
+`-relative_permalinks: true` from the `_config.yml` file. This does cause some issues with links on the page, which can be fixed by changing the links from relative to absolute. For example, in index.html, `<a href="{% raw %}{{site.baseurl}}{% endraw %}/{% raw %}{{ post.url }}{% endraw %}">` should be updated to `<a href="username.github.io/{% raw %}{{ post.url }}{% endraw %}">`, and so on. I found it simplest to just update these as I noticed they were broken, but if you want the page to work 100% from the start, you will need to look through all the files to find these.
 4. Now you have your page, and it's time to start adding your own content. The theme comes with
 examples of posts and pages, so figuring out how to write your own should not be all that tricky.
 
 ### Other themes
-Of course, there are other Jekyll themes to use, and you could make your own if you so desire.
+Of course, there are other Jekyll themes to use, and you could make your own if you so desire. To find some others, a quick google search should bring you a bunch of them. A theme which I was considering for this site, which just barely got rejected in favor of Lanyon, is [Jekyll-now](https://github.com/barryclark/jekyll-now).
 
-
-[More to come, pushing as a test]
+Thats it for today, there will hopefully be more posts in the near future!
