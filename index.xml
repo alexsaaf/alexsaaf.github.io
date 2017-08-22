@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Sääf</title>
+    <link>/</link>
+    <description>Recent content on Alexander Sääf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <managingEditor>alexandersaaf95@gmail.com (Alexander Sääf)</managingEditor>
+    <webMaster>alexandersaaf95@gmail.com (Alexander Sääf)</webMaster>
+    <lastBuildDate>Wed, 26 Apr 2017 20:15:23 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>alexandersaaf95@gmail.com (Alexander Sääf)</author>
+      <guid>/about/</guid>
+      <description>Hey! Welcome to my small corner of this gigantic web of connections that we call the internet. It&amp;rsquo;s not a very large corner, but it&amp;rsquo;s where I hang out, and I kinda like it here. I hope you will too.
+They say three times the charm, so here is another free responsive Jekyll blog theme for you. I&amp;rsquo;ve learned a ton since open sourcing my first two themes on Github, and wanted to try a few new things this time around.</description>
+    </item>
+    
+    <item>
+      <title>My projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>alexandersaaf95@gmail.com (Alexander Sääf)</author>
+      <guid>/projects/</guid>
+      <description>This is a port of the HPSTR theme to Hugo. All the original features are intact and described below. Credit for the theme goes entirely to Michael Rose.
+They say three times the charm, so here is another free responsive Jekyll blog theme for you. I&amp;rsquo;ve learned a ton since open sourcing my first two themes on Github, and wanted to try a few new things this time around.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Wed, 26 Apr 2017 20:15:23 +0200</pubDate>
+      <author>alexandersaaf95@gmail.com (Alexander Sääf)</author>
+      <guid>/posts/first-post/</guid>
+      <description>Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.1
+Highlighted Code Blocks To modify styling and highlight colors edit /static/css/_sass/_syntax.</description>
+    </item>
+    
+  </channel>
+</rss>
