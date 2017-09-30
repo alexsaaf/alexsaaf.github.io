@@ -20,7 +20,7 @@
       <author>alexandersaaf95@gmail.com (Alexander Sääf)</author>
       <guid>alexsaaf.github.io/about/</guid>
       <description>Hey! Welcome to my small corner of this gigantic web of connections that we call the internet. It&amp;rsquo;s not a very large corner, but it&amp;rsquo;s where I hang out, and I kinda like it here. I hope you will too.
-I am a software development student from Sweden, and I spend my spare time developing videogames, currently with Unity. My first &amp;ldquo;real&amp;rdquo; Unity project is a platformer game for mobile called &amp;lsquo;Super Platformer&amp;rsquo;, which is currently in beta.</description>
+I am a software development student from Sweden, and I spend my spare time developing videogames, currently with Unity. I am right now developing a platformer game for mobile called &amp;lsquo;Super Platformer&amp;rsquo;, which is currently in beta.</description>
     </item>
     
     <item>
@@ -39,8 +39,7 @@ They say three times the charm, so here is another free responsive Jekyll blog t
       <pubDate>Wed, 26 Apr 2017 20:15:23 +0200</pubDate>
       <author>alexandersaaf95@gmail.com (Alexander Sääf)</author>
       <guid>alexsaaf.github.io/posts/first-post/</guid>
-      <description>Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.1
-Highlighted Code Blocks To modify styling and highlight colors edit /static/css/_sass/_syntax.</description>
+      <description></description>
     </item>
     
   </channel>
