@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alexander Sääf</title>
-    <link>alexsaaf.github.io/posts/</link>
-    <description>Recent content in Posts on Alexander Sääf</description>
+    <title>Unity on Alexander Sääf</title>
+    <link>alexsaaf.github.io/tags/unity/</link>
+    <description>Recent content in Unity on Alexander Sääf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <managingEditor>alexandersaaf95@gmail.com (Alexander Sääf)</managingEditor>
     <webMaster>alexandersaaf95@gmail.com (Alexander Sääf)</webMaster>
     <lastBuildDate>Wed, 26 Apr 2017 20:15:23 +0200</lastBuildDate>
     
-	<atom:link href="alexsaaf.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="alexsaaf.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

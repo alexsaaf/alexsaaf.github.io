@@ -13,20 +13,29 @@
     
     
     <item>
-      <title>Development</title>
-      <link>alexsaaf.github.io/categories/development/</link>
+      <title>Games</title>
+      <link>alexsaaf.github.io/categories/games/</link>
       <pubDate>Wed, 26 Apr 2017 20:15:23 +0200</pubDate>
       <author>alexandersaaf95@gmail.com (Alexander Sääf)</author>
-      <guid>alexsaaf.github.io/categories/development/</guid>
+      <guid>alexsaaf.github.io/categories/games/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>alexsaaf.github.io/categories/golang/</link>
+      <title>Programming</title>
+      <link>alexsaaf.github.io/categories/programming/</link>
       <pubDate>Wed, 26 Apr 2017 20:15:23 +0200</pubDate>
       <author>alexandersaaf95@gmail.com (Alexander Sääf)</author>
-      <guid>alexsaaf.github.io/categories/golang/</guid>
+      <guid>alexsaaf.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>alexsaaf.github.io/categories/unity/</link>
+      <pubDate>Wed, 26 Apr 2017 20:15:23 +0200</pubDate>
+      <author>alexandersaaf95@gmail.com (Alexander Sääf)</author>
+      <guid>alexsaaf.github.io/categories/unity/</guid>
       <description></description>
     </item>
     
